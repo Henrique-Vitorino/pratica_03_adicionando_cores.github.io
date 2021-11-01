@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  font-family:"Poppins", "Helvetica"
+}
+.container{
+background-color: #A09492;
+height: 100vh;
+}
+
+.header{
+  padding:15px;
+  color:#fff;
+  background-color:#000;
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+}
+
+.header div{
+  display: inline-block;
+}
+
+.content{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:50px;
+}
